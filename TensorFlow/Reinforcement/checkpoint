@@ -1,2 +1,0 @@
-model_checkpoint_path: "my_policy_net_pg.cktp"
-all_model_checkpoint_paths: "my_policy_net_pg.cktp"
